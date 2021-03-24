@@ -1,6 +1,6 @@
 # nosql_sembast
 
-A new Flutter application.
+A new Flutter application. thank to ResoCoder
 
 ## Getting Started
 
